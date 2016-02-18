@@ -9,7 +9,7 @@
 
 ---
 
-
+```javascript
     ¡­or create a new repository on the command line
 
     echo "# hello" >> README.md
@@ -19,3 +19,4 @@
     git remote add origin git@github.com:necromaner/hello.git
     git push -u origin master
 
+```
